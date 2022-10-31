@@ -1,0 +1,228 @@
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.abstractions.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\archive\empty.7z
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\archive\empty.bz2
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\archive\empty.gz
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\archive\empty.tar
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\archive\empty.zip
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\document\empty.docx
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\document\empty.odt
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\document\empty.pdf
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\document\empty.rtf
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.bmp
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.dds
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.dib
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.emf
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.exif
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.gif
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.ico
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.j2c
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jfif
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jp2
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jpc
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jpe
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jpg
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jxr
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.pbm
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.pcx
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.pgm
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.png
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.ppm
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.rle
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.tga
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.tif
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.wdp
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.webp
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.wmp
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\sheet\empty.ods
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\sheet\empty.xlsx
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\slide\empty.odp
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\slide\empty.pptx
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\WebAutomation.UITests.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\WebAutomation.UITests.pdb
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\ApprovalTests.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\ApprovalUtilities.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\System.Data.SqlClient.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\System.Security.AccessControl.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\TextCopy.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\WebDriver.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\WebDriver.Support.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.assert.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.core.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\ApprovalTests.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\ApprovalUtilities.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\System.Data.SqlClient.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\System.Security.AccessControl.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\TextCopy.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\WebDriver.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\WebDriver.Support.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.assert.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.core.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.csproj.AssemblyReference.cache
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.csproj.SuggestedBindingRedirects.cache
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.csproj.CoreCompileInputs.cache
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.csproj.CopyComplete
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.pdb
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\archive\empty.7z
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\archive\empty.bz2
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\archive\empty.gz
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\archive\empty.tar
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\archive\empty.zip
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\document\empty.docx
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\document\empty.odt
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\document\empty.pdf
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\document\empty.rtf
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.bmp
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.dds
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.dib
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.emf
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.exif
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.gif
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.ico
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.j2c
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jfif
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jp2
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jpc
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jpe
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jpg
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jxr
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.pbm
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.pcx
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.pgm
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.png
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.ppm
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.rle
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.tga
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.tif
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.wdp
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.webp
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.wmp
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\sheet\empty.ods
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\sheet\empty.xlsx
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\slide\empty.odp
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\slide\empty.pptx
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.abstractions.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\WebAutomation.UITests.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\WebAutomation.UITests.pdb
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\ApprovalTests.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\ApprovalUtilities.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\System.Data.SqlClient.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\System.Security.AccessControl.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\TextCopy.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\WebDriver.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\WebDriver.Support.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.assert.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.core.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\ApprovalTests.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\ApprovalUtilities.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\System.Data.SqlClient.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\System.Security.AccessControl.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\TextCopy.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\WebDriver.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\WebDriver.Support.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.assert.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.core.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.csproj.AssemblyReference.cache
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.csproj.SuggestedBindingRedirects.cache
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.csproj.CoreCompileInputs.cache
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.csproj.CopyComplete
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.pdb
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.csproj.AssemblyReference.cache
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.csproj.SuggestedBindingRedirects.cache
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.csproj.CoreCompileInputs.cache
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.pdb
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\archive\empty.7z
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\archive\empty.bz2
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\archive\empty.gz
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\archive\empty.tar
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\archive\empty.zip
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\document\empty.docx
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\document\empty.odt
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\document\empty.pdf
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\document\empty.rtf
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.bmp
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.dds
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.dib
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.emf
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.exif
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.gif
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.ico
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.j2c
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jfif
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jp2
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jpc
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jpe
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jpg
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.jxr
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.pbm
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.pcx
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.pgm
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.png
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.ppm
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.rle
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.tga
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.tif
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.wdp
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.webp
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\image\empty.wmp
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\sheet\empty.ods
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\sheet\empty.xlsx
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\slide\empty.odp
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles\slide\empty.pptx
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.abstractions.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\WebAutomation.UITests.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\WebAutomation.UITests.pdb
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\ApprovalTests.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\ApprovalUtilities.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\System.Data.SqlClient.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\System.Security.AccessControl.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\TextCopy.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\WebDriver.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\WebDriver.Support.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.assert.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.core.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\ApprovalTests.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\ApprovalUtilities.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\EmptyFiles.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\System.Data.SqlClient.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\System.Security.AccessControl.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\TextCopy.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\WebDriver.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\WebDriver.Support.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.assert.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.core.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\elber\Desktop\selenium test\09\demos\after\New folder\WebAutomation - Copy\WebAutomation\WebAutomation.UITests\obj\Debug\WebAutomation.UITests.csproj.CopyComplete
